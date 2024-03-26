@@ -1,0 +1,6 @@
+https://github.com/ExpressLRS/ExpressLRS/blob/master/src/lib/CrsfProtocol/crsf_protocol.h
+
+
+https://github.com/opentx/opentx/blob/2.3/radio/src/pulses/crossfire.cpp
+https://github.com/opentx/opentx/blob/2.3/radio/src/telemetry/crossfire.h
+https://github.com/opentx/opentx/blob/2.3/radio/src/telemetry/crossfire.cpp
