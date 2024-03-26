@@ -7,7 +7,7 @@
 #include "../er9x.h"
 #include "../hal.h"
 #include "../iface_a7105.h"
-#include "../LoRa/ELRS.h"
+//#include "../LoRa/ELRS.h"
 #include "../crossfire/crossfire.h"
 #include "../pulses.h"
 #include "../../drivers/fsl_uart_dma.h"

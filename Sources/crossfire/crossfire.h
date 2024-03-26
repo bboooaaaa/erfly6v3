@@ -23,8 +23,8 @@
 
 #include <inttypes.h>
 #include "crc_crsf.h"
-#include "../LoRa/config.h"
-
+//#include "../LoRa/config.h"
+#define constexpr const
 
 
 #ifndef PACK

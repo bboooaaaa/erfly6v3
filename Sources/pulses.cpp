@@ -2,7 +2,7 @@
 #include "pulses.h"
 #include "menus.h"
 #include "iface_a7105.h"
-#include "LoRa/ELRS.h"
+//#include "LoRa/ELRS.h"
 #include "crossfire/crossfire.h"
 
 /*****************************************************************************/
